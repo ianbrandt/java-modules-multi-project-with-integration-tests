@@ -1,0 +1,13 @@
+### JetBrains template
+
+.idea/*
+
+# Gradle:
+*.iml
+
+# IntelliJ
+out/
+
+### Gradle template
+.gradle
+build/
